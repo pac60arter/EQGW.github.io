@@ -19,4 +19,4 @@
   
 #### Lecture projection: ####
 
-[lecture slides] (https://drive.google.com/drive/folders/15EfhZwgimB4FOZavVXwI4tl5MIExRTKM?usp=sharing) 
+[lecture slides] (https://drive.google.com/file/d/1Mbhw6Q-hBe36lJMegupSsJF8FbcCfvfQ/view?usp=sharing) 
